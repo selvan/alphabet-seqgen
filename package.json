@@ -1,6 +1,6 @@
 {
   "name": "alphabet-seqgen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Numeric sequence generator",
   "repository": "github.com/selvan/alphabet-seqgen",
   "main": "lib/alphabet-seqgen.js"
